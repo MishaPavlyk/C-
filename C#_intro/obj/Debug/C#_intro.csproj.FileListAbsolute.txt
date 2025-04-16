@@ -1,0 +1,7 @@
+C:\Users\Міша\source\repos\C#_intro\bin\Debug\C#_intro.exe.config
+C:\Users\Міша\source\repos\C#_intro\bin\Debug\C#_intro.exe
+C:\Users\Міша\source\repos\C#_intro\bin\Debug\C#_intro.pdb
+C:\Users\Міша\source\repos\C#_intro\obj\Debug\C#_intro.csproj.AssemblyReference.cache
+C:\Users\Міша\source\repos\C#_intro\obj\Debug\C#_intro.csproj.CoreCompileInputs.cache
+C:\Users\Міша\source\repos\C#_intro\obj\Debug\C#_intro.exe
+C:\Users\Міша\source\repos\C#_intro\obj\Debug\C#_intro.pdb

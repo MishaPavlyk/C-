@@ -1,0 +1,5 @@
+C:\Users\Міша\source\repos\FizzBuzz.Tests\obj\Debug\net8.0\FizzBuzz.Tests.csproj.AssemblyReference.cache
+C:\Users\Міша\source\repos\FizzBuzz.Tests\obj\Debug\net8.0\FizzBuzz.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\FizzBuzz.Tests\obj\Debug\net8.0\FizzBuzz.Tests.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\FizzBuzz.Tests\obj\Debug\net8.0\FizzBuzz.Tests.AssemblyInfo.cs
+C:\Users\Міша\source\repos\FizzBuzz.Tests\obj\Debug\net8.0\FizzBuzz.Tests.csproj.CoreCompileInputs.cache

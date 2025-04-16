@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_intro_8", "C#_intro_8.csproj", "{31C97668-6E96-4232-B7ED-144094045F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmstrongNumberTests", "..\ArmstrongNumberTests\ArmstrongNumberTests.csproj", "{94DF62E9-BA27-40AE-BD0B-DA62931EADC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C97668-6E96-4232-B7ED-144094045F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C97668-6E96-4232-B7ED-144094045F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C97668-6E96-4232-B7ED-144094045F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C97668-6E96-4232-B7ED-144094045F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94DF62E9-BA27-40AE-BD0B-DA62931EADC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DF62E9-BA27-40AE-BD0B-DA62931EADC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DF62E9-BA27-40AE-BD0B-DA62931EADC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DF62E9-BA27-40AE-BD0B-DA62931EADC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC23F91-B27C-40C0-9122-97208165E75A}
+	EndGlobalSection
+EndGlobal

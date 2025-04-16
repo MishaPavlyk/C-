@@ -1,0 +1,14 @@
+C:\Users\Міша\source\repos\С#_intro_3\bin\Debug\net8.0\С#_intro_3.exe
+C:\Users\Міша\source\repos\С#_intro_3\bin\Debug\net8.0\С#_intro_3.deps.json
+C:\Users\Міша\source\repos\С#_intro_3\bin\Debug\net8.0\С#_intro_3.runtimeconfig.json
+C:\Users\Міша\source\repos\С#_intro_3\bin\Debug\net8.0\С#_intro_3.dll
+C:\Users\Міша\source\repos\С#_intro_3\bin\Debug\net8.0\С#_intro_3.pdb
+C:\Users\Міша\source\repos\С#_intro_3\obj\Debug\net8.0\С#_intro_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\С#_intro_3\obj\Debug\net8.0\С#_intro_3.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\С#_intro_3\obj\Debug\net8.0\С#_intro_3.AssemblyInfo.cs
+C:\Users\Міша\source\repos\С#_intro_3\obj\Debug\net8.0\С#_intro_3.csproj.CoreCompileInputs.cache
+C:\Users\Міша\source\repos\С#_intro_3\obj\Debug\net8.0\С#_intro_3.dll
+C:\Users\Міша\source\repos\С#_intro_3\obj\Debug\net8.0\refint\С#_intro_3.dll
+C:\Users\Міша\source\repos\С#_intro_3\obj\Debug\net8.0\С#_intro_3.pdb
+C:\Users\Міша\source\repos\С#_intro_3\obj\Debug\net8.0\С#_intro_3.genruntimeconfig.cache
+C:\Users\Міша\source\repos\С#_intro_3\obj\Debug\net8.0\ref\С#_intro_3.dll

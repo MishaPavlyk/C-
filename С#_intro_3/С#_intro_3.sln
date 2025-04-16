@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "С#_intro_3", "С#_intro_3.csproj", "{7C48BB09-7D57-4543-A81D-B6BF4905D8AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitCombinerTests", "..\DigitCombinerTests\DigitCombinerTests.csproj", "{3074CC1A-2555-4CD2-B685-1970B7EC096A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C48BB09-7D57-4543-A81D-B6BF4905D8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C48BB09-7D57-4543-A81D-B6BF4905D8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C48BB09-7D57-4543-A81D-B6BF4905D8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C48BB09-7D57-4543-A81D-B6BF4905D8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3074CC1A-2555-4CD2-B685-1970B7EC096A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3074CC1A-2555-4CD2-B685-1970B7EC096A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3074CC1A-2555-4CD2-B685-1970B7EC096A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3074CC1A-2555-4CD2-B685-1970B7EC096A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28D718EA-1B6B-4439-B638-6347A284844D}
+	EndGlobalSection
+EndGlobal

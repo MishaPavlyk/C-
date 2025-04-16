@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\C#_intro_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C97668-6E96-4232-B7ED-144094045F82}|C#_intro_8.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\c#_intro_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C97668-6E96-4232-B7ED-144094045F82}|C#_intro_8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DF62E9-BA27-40AE-BD0B-DA62931EADC7}|..\\ArmstrongNumberTests\\ArmstrongNumberTests.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\armstrongnumbertests\\armstrongnumbertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DF62E9-BA27-40AE-BD0B-DA62931EADC7}|..\\ArmstrongNumberTests\\ArmstrongNumberTests.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\armstrongnumbertests\\armstrongnumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 447,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArmstrongNumberTests",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\ArmstrongNumberTests\\ArmstrongNumberTests.csproj",
+              "RelativeDocumentMoniker": "..\\ArmstrongNumberTests\\ArmstrongNumberTests.csproj",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\ArmstrongNumberTests\\ArmstrongNumberTests.csproj",
+              "RelativeToolTip": "..\\ArmstrongNumberTests\\ArmstrongNumberTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T22:26:43.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArmstrongNumberTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\ArmstrongNumberTests\\ArmstrongNumberTests.cs",
+              "RelativeDocumentMoniker": "..\\ArmstrongNumberTests\\ArmstrongNumberTests.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\ArmstrongNumberTests\\ArmstrongNumberTests.cs",
+              "RelativeToolTip": "..\\ArmstrongNumberTests\\ArmstrongNumberTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:25:32.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\C#_intro_8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\C#_intro_8\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:24:20.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

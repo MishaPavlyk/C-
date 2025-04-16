@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\\u0421#_intro_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C48BB09-7D57-4543-A81D-B6BF4905D8AC}|\u0421#_intro_3.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\\u0441#_intro_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C48BB09-7D57-4543-A81D-B6BF4905D8AC}|\u0421#_intro_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3074CC1A-2555-4CD2-B685-1970B7EC096A}|..\\DigitCombinerTests\\DigitCombinerTests.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\digitcombinertests\\digitcombinertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 447,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DigitCombinerTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\DigitCombinerTests\\DigitCombinerTests.cs",
+              "RelativeDocumentMoniker": "..\\DigitCombinerTests\\DigitCombinerTests.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\DigitCombinerTests\\DigitCombinerTests.cs",
+              "RelativeToolTip": "..\\DigitCombinerTests\\DigitCombinerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:15:53.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\\u0421#_intro_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\\u0421#_intro_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:14:18.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
