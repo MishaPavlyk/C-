@@ -1,0 +1,14 @@
+C:\Users\Міша\source\repos\C#_intro2_4\bin\Debug\net8.0\C#_intro2_4.exe
+C:\Users\Міша\source\repos\C#_intro2_4\bin\Debug\net8.0\C#_intro2_4.deps.json
+C:\Users\Міша\source\repos\C#_intro2_4\bin\Debug\net8.0\C#_intro2_4.runtimeconfig.json
+C:\Users\Міша\source\repos\C#_intro2_4\bin\Debug\net8.0\C#_intro2_4.dll
+C:\Users\Міша\source\repos\C#_intro2_4\bin\Debug\net8.0\C#_intro2_4.pdb
+C:\Users\Міша\source\repos\C#_intro2_4\obj\Debug\net8.0\C#_intro2_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\C#_intro2_4\obj\Debug\net8.0\C#_intro2_4.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\C#_intro2_4\obj\Debug\net8.0\C#_intro2_4.AssemblyInfo.cs
+C:\Users\Міша\source\repos\C#_intro2_4\obj\Debug\net8.0\C#_intro2_4.csproj.CoreCompileInputs.cache
+C:\Users\Міша\source\repos\C#_intro2_4\obj\Debug\net8.0\C#_intro2_4.dll
+C:\Users\Міша\source\repos\C#_intro2_4\obj\Debug\net8.0\refint\C#_intro2_4.dll
+C:\Users\Міша\source\repos\C#_intro2_4\obj\Debug\net8.0\C#_intro2_4.pdb
+C:\Users\Міша\source\repos\C#_intro2_4\obj\Debug\net8.0\C#_intro2_4.genruntimeconfig.cache
+C:\Users\Міша\source\repos\C#_intro2_4\obj\Debug\net8.0\ref\C#_intro2_4.dll
