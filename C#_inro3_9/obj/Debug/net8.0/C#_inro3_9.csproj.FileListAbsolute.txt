@@ -1,0 +1,14 @@
+C:\Users\Міша\source\repos\C#_inro3_9\bin\Debug\net8.0\C#_inro3_9.exe
+C:\Users\Міша\source\repos\C#_inro3_9\bin\Debug\net8.0\C#_inro3_9.deps.json
+C:\Users\Міша\source\repos\C#_inro3_9\bin\Debug\net8.0\C#_inro3_9.runtimeconfig.json
+C:\Users\Міша\source\repos\C#_inro3_9\bin\Debug\net8.0\C#_inro3_9.dll
+C:\Users\Міша\source\repos\C#_inro3_9\bin\Debug\net8.0\C#_inro3_9.pdb
+C:\Users\Міша\source\repos\C#_inro3_9\obj\Debug\net8.0\C#_inro3_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\C#_inro3_9\obj\Debug\net8.0\C#_inro3_9.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\C#_inro3_9\obj\Debug\net8.0\C#_inro3_9.AssemblyInfo.cs
+C:\Users\Міша\source\repos\C#_inro3_9\obj\Debug\net8.0\C#_inro3_9.csproj.CoreCompileInputs.cache
+C:\Users\Міша\source\repos\C#_inro3_9\obj\Debug\net8.0\C#_inro3_9.dll
+C:\Users\Міша\source\repos\C#_inro3_9\obj\Debug\net8.0\refint\C#_inro3_9.dll
+C:\Users\Міша\source\repos\C#_inro3_9\obj\Debug\net8.0\C#_inro3_9.pdb
+C:\Users\Міша\source\repos\C#_inro3_9\obj\Debug\net8.0\C#_inro3_9.genruntimeconfig.cache
+C:\Users\Міша\source\repos\C#_inro3_9\obj\Debug\net8.0\ref\C#_inro3_9.dll
