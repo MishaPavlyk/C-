@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5306D677-65EB-4D21-A35A-61BFBA2A1C82}|..\\EmployeeLibraryTests\\EmployeeLibraryTests.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\employeelibrarytests\\employeeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29138AA4-5394-4F61-9E5B-FADBE8A862E5}|EmployeeLibrary.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\employeelibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29138AA4-5394-4F61-9E5B-FADBE8A862E5}|EmployeeLibrary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29138AA4-5394-4F61-9E5B-FADBE8A862E5}|EmployeeLibrary.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\employeelibrary\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29138AA4-5394-4F61-9E5B-FADBE8A862E5}|EmployeeLibrary.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF05552-C764-400B-A6A2-05C92AA64334}|Solution Items{4BF05552-C764-400B-A6A2-05C92AA64334}|C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF05552-C764-400B-A6A2-05C92AA64334}|Solution Items{4BF05552-C764-400B-A6A2-05C92AA64334}|solutionrelative:EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF05552-C764-400B-A6A2-05C92AA64334}|Solution Items{4BF05552-C764-400B-A6A2-05C92AA64334}|C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\Developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF05552-C764-400B-A6A2-05C92AA64334}|Solution Items{4BF05552-C764-400B-A6A2-05C92AA64334}|solutionrelative:Developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF05552-C764-400B-A6A2-05C92AA64334}|Solution Items{4BF05552-C764-400B-A6A2-05C92AA64334}|C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF05552-C764-400B-A6A2-05C92AA64334}|Solution Items{4BF05552-C764-400B-A6A2-05C92AA64334}|solutionrelative:Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF05552-C764-400B-A6A2-05C92AA64334}|Solution Items{4BF05552-C764-400B-A6A2-05C92AA64334}|C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\IEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF05552-C764-400B-A6A2-05C92AA64334}|Solution Items{4BF05552-C764-400B-A6A2-05C92AA64334}|solutionrelative:IEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 447,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibraryTests\\EmployeeServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeLibraryTests\\EmployeeServiceTests.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibraryTests\\EmployeeServiceTests.cs",
+              "RelativeToolTip": "..\\EmployeeLibraryTests\\EmployeeServiceTests.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAwG8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:33:07.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeService.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:32:13.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\Developer.cs",
+              "RelativeDocumentMoniker": "Developer.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\Developer.cs",
+              "RelativeToolTip": "Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:31:48.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:31:24.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:30:49.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\IEmployee.cs",
+              "RelativeDocumentMoniker": "IEmployee.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\IEmployee.cs",
+              "RelativeToolTip": "IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:30:05.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\EmployeeLibrary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAAwEMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:29:24.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

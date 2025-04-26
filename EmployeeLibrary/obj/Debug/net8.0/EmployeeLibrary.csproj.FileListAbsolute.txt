@@ -1,0 +1,14 @@
+C:\Users\Міша\source\repos\EmployeeLibrary\bin\Debug\net8.0\EmployeeLibrary.exe
+C:\Users\Міша\source\repos\EmployeeLibrary\bin\Debug\net8.0\EmployeeLibrary.deps.json
+C:\Users\Міша\source\repos\EmployeeLibrary\bin\Debug\net8.0\EmployeeLibrary.runtimeconfig.json
+C:\Users\Міша\source\repos\EmployeeLibrary\bin\Debug\net8.0\EmployeeLibrary.dll
+C:\Users\Міша\source\repos\EmployeeLibrary\bin\Debug\net8.0\EmployeeLibrary.pdb
+C:\Users\Міша\source\repos\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.AssemblyInfo.cs
+C:\Users\Міша\source\repos\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Міша\source\repos\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.dll
+C:\Users\Міша\source\repos\EmployeeLibrary\obj\Debug\net8.0\refint\EmployeeLibrary.dll
+C:\Users\Міша\source\repos\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.pdb
+C:\Users\Міша\source\repos\EmployeeLibrary\obj\Debug\net8.0\EmployeeLibrary.genruntimeconfig.cache
+C:\Users\Міша\source\repos\EmployeeLibrary\obj\Debug\net8.0\ref\EmployeeLibrary.dll
