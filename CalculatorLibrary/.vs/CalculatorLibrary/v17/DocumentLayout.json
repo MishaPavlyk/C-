@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AF6700-302A-4122-ADDA-2783C8066832}|..\\CalculatorApp\\CalculatorApp.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AB18AC-60C4-47C0-9FC6-957E889C7FC5}|CalculatorLibrary.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\calculatorlibrary\\calculatorlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4AB18AC-60C4-47C0-9FC6-957E889C7FC5}|CalculatorLibrary.csproj|solutionrelative:calculatorlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\OperationFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|solutionrelative:OperationFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\DivisionOperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|solutionrelative:DivisionOperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\MultiplicationOperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|solutionrelative:MultiplicationOperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\SubtractionOperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|solutionrelative:SubtractionOperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\AdditionOperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|solutionrelative:AdditionOperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\Operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|solutionrelative:Operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\IOperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F344E70-492A-434B-B1F1-057405A222A4}|Solution Items{7F344E70-492A-434B-B1F1-057405A222A4}|solutionrelative:IOperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 447,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorApp\\Program.cs",
+              "RelativeToolTip": "..\\CalculatorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:55:05.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\CalculatorLibrary.csproj",
+              "RelativeDocumentMoniker": "CalculatorLibrary.csproj",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\CalculatorLibrary.csproj",
+              "RelativeToolTip": "CalculatorLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T11:50:52.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\OperationFactory.cs",
+              "RelativeDocumentMoniker": "OperationFactory.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\OperationFactory.cs",
+              "RelativeToolTip": "OperationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:49:28.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DivisionOperation.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\DivisionOperation.cs",
+              "RelativeDocumentMoniker": "DivisionOperation.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\DivisionOperation.cs",
+              "RelativeToolTip": "DivisionOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:48:52.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiplicationOperation.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\MultiplicationOperation.cs",
+              "RelativeDocumentMoniker": "MultiplicationOperation.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\MultiplicationOperation.cs",
+              "RelativeToolTip": "MultiplicationOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:48:37.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubtractionOperation.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\SubtractionOperation.cs",
+              "RelativeDocumentMoniker": "SubtractionOperation.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\SubtractionOperation.cs",
+              "RelativeToolTip": "SubtractionOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:48:11.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdditionOperation.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\AdditionOperation.cs",
+              "RelativeDocumentMoniker": "AdditionOperation.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\AdditionOperation.cs",
+              "RelativeToolTip": "AdditionOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:47:55.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\Operation.cs",
+              "RelativeDocumentMoniker": "Operation.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\Operation.cs",
+              "RelativeToolTip": "Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:47:36.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOperation.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\IOperation.cs",
+              "RelativeDocumentMoniker": "IOperation.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\CalculatorLibrary\\IOperation.cs",
+              "RelativeToolTip": "IOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:45:30.124Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
