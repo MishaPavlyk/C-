@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "acZ7hXV78ag=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Міша\\source\\repos\\SupabaseService\\SupabaseService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Міша\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Міша\\.nuget\\packages\\supabase.core\\1.0.0\\supabase.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\Міша\\.nuget\\packages\\supabase.postgrest\\4.1.0\\supabase.postgrest.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

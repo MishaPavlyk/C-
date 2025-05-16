@@ -1,0 +1,5 @@
+C:\Users\Міша\source\repos\Controllers\obj\Debug\net8.0\Controllers.csproj.AssemblyReference.cache
+C:\Users\Міша\source\repos\Controllers\obj\Debug\net8.0\Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\Controllers\obj\Debug\net8.0\Controllers.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\Controllers\obj\Debug\net8.0\Controllers.AssemblyInfo.cs
+C:\Users\Міша\source\repos\Controllers\obj\Debug\net8.0\Controllers.csproj.CoreCompileInputs.cache

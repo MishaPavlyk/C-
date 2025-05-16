@@ -1,0 +1,5 @@
+C:\Users\Міша\source\repos\SupabaseService\obj\Debug\net8.0\SupabaseService.csproj.AssemblyReference.cache
+C:\Users\Міша\source\repos\SupabaseService\obj\Debug\net8.0\SupabaseService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\SupabaseService\obj\Debug\net8.0\SupabaseService.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\SupabaseService\obj\Debug\net8.0\SupabaseService.AssemblyInfo.cs
+C:\Users\Міша\source\repos\SupabaseService\obj\Debug\net8.0\SupabaseService.csproj.CoreCompileInputs.cache
