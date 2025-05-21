@@ -1,0 +1,4 @@
+C:\Users\Міша\source\repos\Facade\obj\Debug\net8.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\Facade\obj\Debug\net8.0\Facade.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\Facade\obj\Debug\net8.0\Facade.AssemblyInfo.cs
+C:\Users\Міша\source\repos\Facade\obj\Debug\net8.0\Facade.csproj.CoreCompileInputs.cache

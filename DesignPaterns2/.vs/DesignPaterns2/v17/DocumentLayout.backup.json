@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\DesignPaterns2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F26318-492C-4BAE-9919-84075FF643CE}|..\\Demos\\Demos.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\demos\\demos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D44874-FAE9-4495-912D-EB09BF858BF1}|..\\ConsoleApp\\ConsoleApp.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CA813B-62C2-4F14-8DF1-EAE64E18CA30}|DesignPaterns2.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\designpaterns2\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CA813B-62C2-4F14-8DF1-EAE64E18CA30}|DesignPaterns2.csproj|solutionrelative:adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6EC2EE-B429-4865-8C7F-50F650AAC4DA}|..\\Decorator\\Decorator.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636E4FB1-15ED-4549-985C-0E1964C85E7D}|..\\Proxy\\Proxy.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FC42DF-9792-4041-AA93-0CD290FE8FB4}|..\\Flyweight\\Flyweight.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\flyweight\\flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB9722B-AECE-48F7-A063-124C9B8DE973}|..\\Facade\\Facade.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\facade\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41478FF-0884-43E4-A4A3-11554CCC6924}|..\\Composite\\Composite.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\composite\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F446803-E882-49FF-ADBB-02A48B8ABA0A}|..\\Bridge\\Bridge.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\bridge\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 447,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demos.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Demos\\Demos.cs",
+              "RelativeDocumentMoniker": "..\\Demos\\Demos.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Demos\\Demos.cs",
+              "RelativeToolTip": "..\\Demos\\Demos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:12:44.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:12:26.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proxy.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Proxy\\Proxy.cs",
+              "RelativeDocumentMoniker": "..\\Proxy\\Proxy.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Proxy\\Proxy.cs",
+              "RelativeToolTip": "..\\Proxy\\Proxy.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:08:33.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flyweight.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Flyweight\\Flyweight.cs",
+              "RelativeDocumentMoniker": "..\\Flyweight\\Flyweight.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Flyweight\\Flyweight.cs",
+              "RelativeToolTip": "..\\Flyweight\\Flyweight.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:08:12.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Facade\\Facade.cs",
+              "RelativeDocumentMoniker": "..\\Facade\\Facade.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Facade\\Facade.cs",
+              "RelativeToolTip": "..\\Facade\\Facade.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:07:34.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Decorator\\Decorator.cs",
+              "RelativeDocumentMoniker": "..\\Decorator\\Decorator.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Decorator\\Decorator.cs",
+              "RelativeToolTip": "..\\Decorator\\Decorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:07:10.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Composite\\Composite.cs",
+              "RelativeDocumentMoniker": "..\\Composite\\Composite.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Composite\\Composite.cs",
+              "RelativeToolTip": "..\\Composite\\Composite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:06:17.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bridge.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Bridge\\Bridge.cs",
+              "RelativeDocumentMoniker": "..\\Bridge\\Bridge.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Bridge\\Bridge.cs",
+              "RelativeToolTip": "..\\Bridge\\Bridge.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwDoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:05:51.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\DesignPaterns2\\Adapter.cs",
+              "RelativeDocumentMoniker": "Adapter.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\DesignPaterns2\\Adapter.cs",
+              "RelativeToolTip": "Adapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:03:10.456Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

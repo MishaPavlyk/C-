@@ -1,0 +1,4 @@
+C:\Users\Міша\source\repos\Flyweight\obj\Debug\net8.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\Flyweight\obj\Debug\net8.0\Flyweight.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\Flyweight\obj\Debug\net8.0\Flyweight.AssemblyInfo.cs
+C:\Users\Міша\source\repos\Flyweight\obj\Debug\net8.0\Flyweight.csproj.CoreCompileInputs.cache

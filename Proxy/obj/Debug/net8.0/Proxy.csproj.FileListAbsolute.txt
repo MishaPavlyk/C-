@@ -1,0 +1,4 @@
+C:\Users\Міша\source\repos\Proxy\obj\Debug\net8.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfo.cs
+C:\Users\Міша\source\repos\Proxy\obj\Debug\net8.0\Proxy.csproj.CoreCompileInputs.cache

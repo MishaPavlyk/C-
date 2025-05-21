@@ -1,0 +1,4 @@
+C:\Users\Міша\source\repos\DesignPaterns2\obj\Debug\net8.0\DesignPaterns2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\DesignPaterns2\obj\Debug\net8.0\DesignPaterns2.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\DesignPaterns2\obj\Debug\net8.0\DesignPaterns2.AssemblyInfo.cs
+C:\Users\Міша\source\repos\DesignPaterns2\obj\Debug\net8.0\DesignPaterns2.csproj.CoreCompileInputs.cache

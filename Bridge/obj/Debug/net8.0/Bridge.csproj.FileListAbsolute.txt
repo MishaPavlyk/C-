@@ -1,0 +1,4 @@
+C:\Users\Міша\source\repos\Bridge\obj\Debug\net8.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\Bridge\obj\Debug\net8.0\Bridge.AssemblyInfo.cs
+C:\Users\Міша\source\repos\Bridge\obj\Debug\net8.0\Bridge.csproj.CoreCompileInputs.cache

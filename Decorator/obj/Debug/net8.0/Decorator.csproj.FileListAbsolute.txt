@@ -1,0 +1,4 @@
+C:\Users\Міша\source\repos\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+C:\Users\Міша\source\repos\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache

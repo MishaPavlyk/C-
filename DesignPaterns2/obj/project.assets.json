@@ -1,0 +1,197 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Bridge/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Bridge.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bridge.dll": {}
+        }
+      },
+      "Composite/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Composite.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Composite.dll": {}
+        }
+      },
+      "Decorator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Decorator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Decorator.dll": {}
+        }
+      },
+      "Facade/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Facade.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Facade.dll": {}
+        }
+      },
+      "Flyweight/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Flyweight.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Flyweight.dll": {}
+        }
+      },
+      "Proxy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Proxy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Proxy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bridge/1.0.0": {
+      "type": "project",
+      "path": "../Bridge/Bridge.csproj",
+      "msbuildProject": "../Bridge/Bridge.csproj"
+    },
+    "Composite/1.0.0": {
+      "type": "project",
+      "path": "../Composite/Composite.csproj",
+      "msbuildProject": "../Composite/Composite.csproj"
+    },
+    "Decorator/1.0.0": {
+      "type": "project",
+      "path": "../Decorator/Decorator.csproj",
+      "msbuildProject": "../Decorator/Decorator.csproj"
+    },
+    "Facade/1.0.0": {
+      "type": "project",
+      "path": "../Facade/Facade.csproj",
+      "msbuildProject": "../Facade/Facade.csproj"
+    },
+    "Flyweight/1.0.0": {
+      "type": "project",
+      "path": "../Flyweight/Flyweight.csproj",
+      "msbuildProject": "../Flyweight/Flyweight.csproj"
+    },
+    "Proxy/1.0.0": {
+      "type": "project",
+      "path": "../Proxy/Proxy.csproj",
+      "msbuildProject": "../Proxy/Proxy.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Bridge >= 1.0.0",
+      "Composite >= 1.0.0",
+      "Decorator >= 1.0.0",
+      "Facade >= 1.0.0",
+      "Flyweight >= 1.0.0",
+      "Proxy >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Міша\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Міша\\source\\repos\\DesignPaterns2\\DesignPaterns2.csproj",
+      "projectName": "DesignPaterns2",
+      "projectPath": "C:\\Users\\Міша\\source\\repos\\DesignPaterns2\\DesignPaterns2.csproj",
+      "packagesPath": "C:\\Users\\Міша\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Міша\\source\\repos\\DesignPaterns2\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Міша\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Міша\\source\\repos\\Bridge\\Bridge.csproj": {
+              "projectPath": "C:\\Users\\Міша\\source\\repos\\Bridge\\Bridge.csproj"
+            },
+            "C:\\Users\\Міша\\source\\repos\\Composite\\Composite.csproj": {
+              "projectPath": "C:\\Users\\Міша\\source\\repos\\Composite\\Composite.csproj"
+            },
+            "C:\\Users\\Міша\\source\\repos\\Decorator\\Decorator.csproj": {
+              "projectPath": "C:\\Users\\Міша\\source\\repos\\Decorator\\Decorator.csproj"
+            },
+            "C:\\Users\\Міша\\source\\repos\\Facade\\Facade.csproj": {
+              "projectPath": "C:\\Users\\Міша\\source\\repos\\Facade\\Facade.csproj"
+            },
+            "C:\\Users\\Міша\\source\\repos\\Flyweight\\Flyweight.csproj": {
+              "projectPath": "C:\\Users\\Міша\\source\\repos\\Flyweight\\Flyweight.csproj"
+            },
+            "C:\\Users\\Міша\\source\\repos\\Proxy\\Proxy.csproj": {
+              "projectPath": "C:\\Users\\Міша\\source\\repos\\Proxy\\Proxy.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
