@@ -1,0 +1,4 @@
+C:\Users\Міша\source\repos\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+C:\Users\Міша\source\repos\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache

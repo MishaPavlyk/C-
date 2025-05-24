@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02053695-BEB5-41CA-AF48-4C04CF20477A}|..\\Main\\Main.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE834C99-8C8C-4E66-8863-3E417B14A53D}|..\\Interpreter\\Interpreter.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\interpreter\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99A497C-2B00-45D4-940F-EE81C634F1F6}|..\\Memento\\Memento.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084BA912-5BF7-4E94-B9EE-9DF8C6EFCA04}|..\\Mediator\\Mediator.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\mediator\\mediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39063DF9-3ACD-4F79-99D9-5A13750AE9BA}|..\\Chain of Responsibility\\Chain of Responsibility.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\chain of responsibility\\chain of responsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC6B9CE-B026-41AD-A0DA-ABA8F571B363}|..\\Command\\Command.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\command\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8594138F-6C79-47C2-8D7C-CE921C1FDB04}|..\\State\\State.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\state\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FA0A1B-A628-440B-80F9-A91E8E0441E3}|..\\Observer\\Observer.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\observer\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13498DDA-D512-4999-9538-9B2F798965CB}|Strategy.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\strategy\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13498DDA-D512-4999-9538-9B2F798965CB}|Strategy.csproj|solutionrelative:strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 447,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Main\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Main\\Program.cs*",
+              "RelativeToolTip": "..\\Main\\Program.cs*",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAqwB4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:36:59.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interpreter.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Interpreter\\Interpreter.cs",
+              "RelativeDocumentMoniker": "..\\Interpreter\\Interpreter.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Interpreter\\Interpreter.cs",
+              "RelativeToolTip": "..\\Interpreter\\Interpreter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:34:59.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Memento\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Memento\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Memento\\Program.cs",
+              "RelativeToolTip": "..\\Memento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:34:45.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mediator.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Mediator\\Mediator.cs",
+              "RelativeDocumentMoniker": "..\\Mediator\\Mediator.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Mediator\\Mediator.cs",
+              "RelativeToolTip": "..\\Mediator\\Mediator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:33:38.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chain of Responsibility.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Chain of Responsibility\\Chain of Responsibility.cs",
+              "RelativeDocumentMoniker": "..\\Chain of Responsibility\\Chain of Responsibility.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Chain of Responsibility\\Chain of Responsibility.cs",
+              "RelativeToolTip": "..\\Chain of Responsibility\\Chain of Responsibility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:33:18.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Command\\Command.cs",
+              "RelativeDocumentMoniker": "..\\Command\\Command.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Command\\Command.cs",
+              "RelativeToolTip": "..\\Command\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:32:57.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\State\\State.cs",
+              "RelativeDocumentMoniker": "..\\State\\State.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\State\\State.cs",
+              "RelativeToolTip": "..\\State\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:32:36.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Observer\\Observer.cs",
+              "RelativeDocumentMoniker": "..\\Observer\\Observer.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Observer\\Observer.cs",
+              "RelativeToolTip": "..\\Observer\\Observer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:32:16.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Strategy\\Strategy.cs",
+              "RelativeDocumentMoniker": "Strategy.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Strategy\\Strategy.cs",
+              "RelativeToolTip": "Strategy.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:31:22.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
