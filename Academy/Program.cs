@@ -1,0 +1,50 @@
+﻿CREATE TABLE Faculties (
+    Id INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(100) NOT NULL UNIQUE
+);
+
+CREATE TABLE Departments (
+    Id INT PRIMARY KEY IDENTITY,
+    Financing MONEY NOT NULL DEFAULT 0 CHECK (Financing >= 0),
+    Name NVARCHAR(100) NOT NULL UNIQUE,
+    FacultyId INT NOT NULL,
+    FOREIGN KEY (FacultyId) REFERENCES Faculties(Id)
+);
+
+CREATE TABLE Teachers (
+    Id INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(MAX) NOT NULL,
+    Salary MONEY NOT NULL CHECK (Salary > 0),
+    Surname NVARCHAR(MAX) NOT NULL
+);
+
+CREATE TABLE Subjects (
+    Id INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(100) NOT NULL UNIQUE
+);
+
+CREATE TABLE Lectures (
+    Id INT PRIMARY KEY IDENTITY,
+    LectureRoom NVARCHAR(MAX) NOT NULL,
+    SubjectId INT NOT NULL,
+    TeacherId INT NOT NULL,
+    DayOfWeek INT NOT NULL CHECK (DayOfWeek BETWEEN 1 AND 7),
+    FOREIGN KEY (SubjectId) REFERENCES Subjects(Id),
+    FOREIGN KEY (TeacherId) REFERENCES Teachers(Id)
+);
+
+CREATE TABLE Groups (
+    Id INT PRIMARY KEY IDENTITY,
+    Name NVARCHAR(10) NOT NULL UNIQUE,
+    Year INT NOT NULL CHECK (Year BETWEEN 1 AND 5),
+    DepartmentId INT NOT NULL,
+    FOREIGN KEY (DepartmentId) REFERENCES Departments(Id)
+);
+
+CREATE TABLE GroupsLectures (
+    Id INT PRIMARY KEY IDENTITY,
+    GroupId INT NOT NULL,
+    LectureId INT NOT NULL,
+    FOREIGN KEY (GroupId) REFERENCES Groups(Id),
+    FOREIGN KEY (LectureId) REFERENCES Lectures(Id)
+);
