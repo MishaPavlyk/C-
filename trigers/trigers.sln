@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trigers", "trigers.csproj", "{8D0B79F7-4C18-4A70-BFB5-8175A278B13A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0B79F7-4C18-4A70-BFB5-8175A278B13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0B79F7-4C18-4A70-BFB5-8175A278B13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0B79F7-4C18-4A70-BFB5-8175A278B13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0B79F7-4C18-4A70-BFB5-8175A278B13A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEAC3826-316C-4E2E-BFAC-D0ABEA9BD408}
+	EndGlobalSection
+EndGlobal
