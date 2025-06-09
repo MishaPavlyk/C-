@@ -1,0 +1,4 @@
+C:\Users\Міша\source\repos\Gym Club\obj\Debug\net8.0\Gym Club.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Міша\source\repos\Gym Club\obj\Debug\net8.0\Gym Club.AssemblyInfoInputs.cache
+C:\Users\Міша\source\repos\Gym Club\obj\Debug\net8.0\Gym Club.AssemblyInfo.cs
+C:\Users\Міша\source\repos\Gym Club\obj\Debug\net8.0\Gym Club.csproj.CoreCompileInputs.cache

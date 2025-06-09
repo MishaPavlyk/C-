@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Gym Club\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2174F9-AE97-4AE9-A1C9-B598BB6777A0}|Gym Club.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\gym club\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2174F9-AE97-4AE9-A1C9-B598BB6777A0}|Gym Club.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7D36F6-AFC8-4FA2-B034-5433C3CAC232}|..\\Every trainer\\Every trainer.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\every trainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243A21F2-FB22-4A91-B95D-5CD7DCF09F94}|..\\Dapper\\Dapper.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\dapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA0F46-B35C-415C-B8EA-9BC85DD9327B}|..\\RenewSubscription\\RenewSubscription.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\renewsubscription\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3A9FC-C214-4DE6-B1D3-9E36D31321CA}|..\\RegisterToSession\\RegisterToSession.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\registertosession\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945C6ED1-FFF6-4568-B56A-F0B0D871983A}|..\\Schedule\\Schedule.csproj|c:\\users\\\u043C\u0456\u0448\u0430\\source\\repos\\schedule\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 447,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Schedule\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Schedule\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Schedule\\Program.cs",
+              "RelativeToolTip": "..\\Schedule\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:48:54.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Dapper\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Dapper\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Dapper\\Program.cs",
+              "RelativeToolTip": "..\\Dapper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:48:11.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\RenewSubscription\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RenewSubscription\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\RenewSubscription\\Program.cs",
+              "RelativeToolTip": "..\\RenewSubscription\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:47:54.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\RegisterToSession\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RegisterToSession\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\RegisterToSession\\Program.cs",
+              "RelativeToolTip": "..\\RegisterToSession\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:47:32.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Every trainer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Every trainer\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Every trainer\\Program.cs",
+              "RelativeToolTip": "..\\Every trainer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:45:12.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Gym Club\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0456\u0448\u0430\\source\\repos\\Gym Club\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:44:08.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
